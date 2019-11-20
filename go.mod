@@ -1,3 +1,3 @@
-module github.com/theantichris/go-template
+module github.com/theantichris/charcount
 
 go 1.13
